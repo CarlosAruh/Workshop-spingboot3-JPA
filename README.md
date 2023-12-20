@@ -1,15 +1,15 @@
 # Projeto web services com Spring Boot e JPA / Hibernate
 
-*  ### Criar projeto Spring Boot Java
+* Criar projeto Spring Boot Java
   <br>
-* ### Implementar modelo de domínio
+* Implementar modelo de domínio
   <br>
-* ### Estruturar camadas lógicas: resource, service, repository
+* Estruturar camadas lógicas: resource, service, repository
    <br>
-* ### Configurar banco de dados de teste (H2)
+* Configurar banco de dados de teste (H2)
    <br>
-* ### Povoar o banco de dados
+* Povoar o banco de dados
   <br>
-* ### CRUD - Create, Retrieve, Update, Delete
+* CRUD - Create, Retrieve, Update, Delete
   <br>
-* ### Tratamento de exceções
+* Tratamento de exceções
